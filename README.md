@@ -20,7 +20,7 @@ This dashboard analyzes Super Store sales across segments, categories, and regio
 - Data Source: Super Store sales dataset (2019–2020)
 
 ## 📸 Dashboard Preview
-![Dashboard Preview](link-to-your-screenshot.png)
+- <a herf= "https://github.com/purvakamble5664-cyber/store-sales-dashboard/blob/main/SuperStore%20Sales.png" </a>
 
 ## 📁 Files
 - `SuperStore_Dashboard.twbx` – Tableau packaged workbook  
