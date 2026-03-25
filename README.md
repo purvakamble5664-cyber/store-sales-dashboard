@@ -34,3 +34,6 @@ This dashboard analyzes Super Store sales across segments, categories, and regio
 - Enhance inventory planning around top sub‑categories.
 Feel free to replace the placeholder image link and file
 
+## Final Conclusion :
+The Super Store demonstrates strong performance in the Consumer segment, Office Supplies category, and West region, with top sub-categories like Phones and Chairs driving revenue. However, inconsistent YoY performance and regional disparities present clear opportunities for improvement.
+
