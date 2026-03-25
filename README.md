@@ -21,7 +21,7 @@ This dashboard analyzes Super Store sales across segments, categories, and regio
 
 ## 📸 Dashboard Preview
 - <img width="1311" height="740" alt="SuperStore Sales" src="https://github.com/user-attachments/assets/592a040b-8bfe-4198-8c44-1fd3887d9190" />
-<img width="1311" height="740" alt="SuperStore Sales" src="https://github.com/user-attachments/assets/592a040b-8bfe-4198-8c44-1fd3887d9190" />
+
 
 
 ## 📁 Files
